@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://iostalks.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: iOSTalk技术博客
+subtitle: 修行人生，寻求创意之路
+author: 蒋小飞
 simple_search: https://www.google.com/search
 description:
 
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /git@github.com:iostalks/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email:iostalkboy@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -70,8 +70,8 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_button: true
+#twitter_user:
+#twitter_tweet_button: true
 
 # Google +1
 google_plus_one: false
